@@ -5,7 +5,9 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Mediator", "FP.Patterns.Mediator.csproj", "{94EDFE35-DE69-4C61-A5D7-7741261FD0E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Mediator.Exercice1", "..\FP.Patterns.Mediator.Exercice1\FP.Patterns.Mediator.Exercice1.csproj", "{06D4A7A0-ECBD-42E1-912A-9DD2BC75EE56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Mediator.Exercice1", "..\FP.Patterns.Mediator.Exercice1\FP.Patterns.Mediator.Exercice1.csproj", "{06D4A7A0-ECBD-42E1-912A-9DD2BC75EE56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Mediator.Exercice2", "..\FP.Patterns.Mediator.Exercice2\FP.Patterns.Mediator.Exercice2.csproj", "{5FA590E2-C4D3-4D73-BC99-74A7F60C2732}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{06D4A7A0-ECBD-42E1-912A-9DD2BC75EE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06D4A7A0-ECBD-42E1-912A-9DD2BC75EE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06D4A7A0-ECBD-42E1-912A-9DD2BC75EE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA590E2-C4D3-4D73-BC99-74A7F60C2732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA590E2-C4D3-4D73-BC99-74A7F60C2732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA590E2-C4D3-4D73-BC99-74A7F60C2732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA590E2-C4D3-4D73-BC99-74A7F60C2732}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
